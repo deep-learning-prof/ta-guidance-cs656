@@ -9,10 +9,35 @@ posting assignments and their instructions, posting announcements, and deploying
 machines. 
 
 This guide provides an overview of the tasks. Specific steps for some of the tasks can be found in this
-repo.  
+repo. 
 
-## Course webpage organization tasks
-The course page is hosted on Microsoft Teams as a "team" page. The team page is composed of
+## Add students to the course page
+The course page is hosted on Microsoft Teams as a "team" page. Students are *not* automatically added to
+the course page. We add them by creating a link to the course page and posting it on the Blackboard page
+of the course as an "Annoucement". The school automatically adds all students to Blackboard.
+
+To get the link to the course page, follow these steps:
+* Open the course page in Microsoft Teams
+* Click on the three dots next to the name of the couse on the left bar
+* Click on `Get link to team` and then `Copy`.
+
+To send a Blackboard announcement, complete the following steps:
+* Go to the course page in Blackboard
+* Click on `Annoucements>Create Annoucement`. 
+* Add a title to the announcement.
+* Add a message and the link to the Teams course page. 
+* Select `Not date restricted`
+* Select ` Send a copy of this announcement immediately`
+* Click `Submit` 
+
+**Your first task is to create a Blackboard announcement with a link to the Teams course** 
+
+This task should be completed *no later than 48 hours before* the scheduled time for the first
+lecture of the course.
+
+
+## Course page organization tasks
+The team page is composed of
 channels and each channel is formed by tabs. The channels in this course correspond to a topic and they
 usually have a `Posts`, a `Files`, and a `Video` tab. Some channels may have additional tabs to display more resources for the students.
 
@@ -30,9 +55,9 @@ test their knowledge with a set of homework problems.
 The channel includes a `Posts`, a `Files`, and a `Video` tab. 
 
 #### The `Files` tab
-The `Files` tab contains three folders: `Slides`, `Lab`, and `Homework`. As expected, the `Slides` folder
-contains the slides for each of the five videos, the `Lab` tab contains the instructions for the lab, and
-the `Homework` folder contains the homework problems.  
+The `Files` tab contains three folders: `Slides`, `Lab`, and `Homework`. As expected, the
+`Slides` folder contains the slides for each of the five videos, the `Lab` tab contains the
+instructions for the lab, and the `Homework` folder contains the homework problems.  
 
 The contents for the three folders have already been developed. However, they are not automatically
 copied when the new Teams page is created. 
@@ -125,11 +150,16 @@ following:
 **Your responsibility is to send the weekly statement on the first business day of the every week of the
 semester**
 
-Note that the annoucements can be written and then scheduled to be posted in the future. 
+Note that the announcements can be written and then scheduled to be posted in the future. 
 
 Note that you can reuse announcements (with corresponding edits) from previous semesters.
 
 You may also use AI tools such as ChatGPT to generate announcements as long as you verify their accuracy
-and make any necessary edits before posting. 
+and make any necessary edits before posting.
 
-
+## Time tracking
+Only work up to however many hours per week you were assigned for this course. Note that hours that you
+didn't work during one week cannot be used by the instructor in subsequent weeks. Please ensure that you
+log the time it takes you to complete **any** tasks related to the course, including the tasks described
+above, answering student questions, doing a lab in advanced to better grade it, testing the vApps,
+grading, etc. 
