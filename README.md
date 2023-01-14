@@ -1,11 +1,12 @@
-# Guidance for teaching assistants in CS 656 Introduction to Cybersecurity. 
+# Guide for Teaching Assistants. 
 
 This objective of this guide is to give you concise tasks that need to be completed as part of your TA
 duties. 
 
-Your responsibility as a TA is to run the logistics of the course and grade assignments. The logistics of
-the course include organizing the course page, building a schedule of assignments, posting
-assignments and their instructions, posting announcements, and deploying virtual machines. 
+Your responsibility as a TA is to run the logistics of the course and grade assignments. The
+logistics of the course include organizing the course page, building a schedule of assignments,
+posting assignments and their instructions, posting announcements, and deploying virtual
+machines. 
 
 This guide provides an overview of the tasks. Specific steps for some of the tasks can be found in this
 repo.  
@@ -107,5 +108,28 @@ A guide with more specific steps can be found on this repo.
 
 **Your responsibility is to deploy the class vApps on time (i.e., so that students have at least one full
 week to work on the lab) for all the lab assignments in the class**
+
+## Weekly Announcement Posting
+To better guide students during the course, we need to give them specific tasks to complete every week. 
+We do this through a weekly announcement on the course page. The announcement should include the
+following:
+
+* The announcement should start with the course tag, i.e., `@[the name of the course]` to
+  ensure that all students receive a notification about the annoucement. 
+* The announcement's first sentence should be a friendly greeting. 
+* A brief summary of the importance of the topic and the sub-topics
+  that will be covered. 
+* A list of tasks to be completed during the week. 
+* A closing statement saying they can contact the TA/instructor with questions. 
+
+**Your responsibility is to send the weekly statement on the first business day of the every week of the
+semester**
+
+Note that the annoucements can be written and then scheduled to be posted in the future. 
+
+Note that you can reuse announcements (with corresponding edits) from previous semesters.
+
+You may also use AI tools such as ChatGPT to generate announcements as long as you verify their accuracy
+and make any necessary edits before posting. 
 
 
