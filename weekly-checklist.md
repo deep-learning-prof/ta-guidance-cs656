@@ -82,5 +82,11 @@ grading.
 2. Return all the assignments, including those without a submission.
 3. Make sure all assignments are returned so that Teams marks the whole assignment as returned. 
 
+## Log Hours
+You should not work beyond the hours that you are assigned for the week. Record the time that you spend
+doing *any* task related to your TA duties, including meetings, reading/writing emails,
+answering student questions, etc. 
 
+1. Record the time it takes to complete each task
+2. Submit the total time spend during the week to the instructor. 
 
