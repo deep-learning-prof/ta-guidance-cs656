@@ -9,7 +9,7 @@ posting assignments and their instructions, posting announcements, and deploying
 machines. 
 
 This guide provides an overview of the tasks. Specific steps for some of the tasks can be found
-in different files withing this folder.  
+in different files within this folder.  
 
 ## Add students to the course page
 The course page is hosted on Microsoft Teams as a "team" page. Students are *not* automatically added to
